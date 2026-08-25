@@ -1,1 +1,1 @@
-http://10.51.0.14:5000
+https://naitik-live-class-default-rtdb.firebaseio.com/class_state.json
