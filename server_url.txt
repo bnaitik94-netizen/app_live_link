@@ -1,1 +1,1 @@
-https://21e619a70ac2e2.lhr.life
+http://localhost:5000
